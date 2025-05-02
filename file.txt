@@ -1,1 +1,32 @@
 this is file data
+
+Project:
+DevTinder
+
+1. Requirements : Product manager along with designers do all requirement gathering design mock for 
+    product like target audience, market size etc
+
+2. Design : Senior engineers, engineer managers - what architecture to use, what tech stack, Hld, low lvl design
+
+3. Development : SDE1, SDE2
+
+4. Testing : SDET
+
+5. Deployment : DevOps but mostly developers
+
+6. Maintenance : cycle repeat for any new feature changes requirements
+
+// Monolith vs microservice architecture
+
+MONOLITH -  One big project where all code be it backend, frontend, db, authentication, analytics deployed 
+in single project
+
+MICROSERVICE - means separate one single project for one thing like frontend, backend, db etc
+
+- dev speed : mn - slower , ms: faster
+- code repo
+- scalability
+- Deployment
+- tech stack
+- infra cost
+- 
